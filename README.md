@@ -2,7 +2,7 @@
 
 Project made with Angular in its version 14.2.6.
 
-## Sobre el proyecto
+## About the project
 
 It is an application that searches for gifs from the site <a href="https://developers.giphy.com/"><b>giphy<b></a>
 
